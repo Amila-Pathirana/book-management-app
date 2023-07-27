@@ -8,7 +8,7 @@
 		<version>2.7.15-SNAPSHOT</version>
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
-	<groupId>com.example</groupId>
+	<groupId>lk.ijse.dep10.app.BackEndSpringbootApplication</groupId>
 	<artifactId>back-end-springboot</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<packaging>war</packaging>
@@ -33,7 +33,7 @@
 		<dependency>
 			<groupId>org.modelmapper</groupId>
 			<artifactId>modelmapper</artifactId>
-			<version>3.1.1</version>
+			<version>2.4.4</version> <!-- Use the latest version available -->
 		</dependency>
 
 		<dependency>
