@@ -1,0 +1,11 @@
+{
+  "name": "back-end-nodejs",
+  "version": "1.0.0",
+  "scripts": {
+    "start": "tsc && node dist/main.js"
+  },
+  "devDependencies": {
+    "@types/node": "^20.4.5",
+    "typescript": "^5.1.6"
+  }
+}
